@@ -8,7 +8,7 @@
 
 ****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0AOYzpM2kXTDJOBfNTnlaxj3QIMDkAX5z5GNKyUBIjAO-FHdKwgYoCIT9yTh--EJ_k81hbLc8JFVwLlpd2XjIgrUddxWXDxKSZTJ9fmm6w3D06TMfx6V6eKiXekmVTZ3KoVZEu4i7dCg90Y-2IYM5LBFn?key=KPUKf5VKhm9wHD_I9n-cSg)****
 
-**Fig 1. Schematic representation of PPI Network analysis**
+  **Fig 1. Schematic representation of PPI Network analysis**
 
 Protein-Protein Interaction (PPI) network is the analysis of Protein interactions at the cellular level to represent the physical or functional interactions between proteins using mathematical models and graphs. These interactions take place between the binding regions that are present in the proteins, and they are attributed to a specific biological function.
 
