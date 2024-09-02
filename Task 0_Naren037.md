@@ -58,9 +58,4 @@ Szklarczyk, D., Kirsch, R., Koutrouli, M., Nastou, K., Mehryary, F., Hachilif, R
 
 Walhout, A. J. M., & Vidal, M. (2001). High-Throughput Yeast Two-Hybrid Assays for Large-Scale Protein Interaction Mapping. _Methods_, _24_(3), 297–306. <https://doi.org/10.1006/meth.2001.1190> 
 
- 
-
-\
-
-
 <!--EndFragment-->
