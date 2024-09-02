@@ -60,7 +60,6 @@ Walhout, A. J. M., & Vidal, M. (2001). High-Throughput Yeast Two-Hybrid Assays f
 
  
 
-\
 
 
 <!--EndFragment-->
